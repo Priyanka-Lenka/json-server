@@ -6,7 +6,7 @@
                         "ntID": 123,
                         "name" : "Jane Doe",
                         "email" : "JaneDoe@gmail.com",
-                        "role" : 2
+                        "role" : 1
                 }
         ]
 }
