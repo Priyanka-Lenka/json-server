@@ -8,5 +8,26 @@
                         "email" : "JaneDoe@gmail.com",
                         "role" : 1
                 }
-        ]
+        ],
+        "UserBAsedProcess":
+        [
+                {
+                        "_id": "5eb690a8933b7a0d6dc07617",
+                        "name": "Jane Doe",
+                        "mailId": "jane_doe@dell.com",
+                        "ntId": "999999",
+                        "domainName": "asia-pacific",
+                        "processRoleAllocation": 
+                        [
+                                {
+                                        "processId": 1,
+                                        "role": 1
+                                },
+                                {
+                                        "processId": 2,
+                                        "role": 1
+                                }
+                        ]
+                }
+         ]
 }
